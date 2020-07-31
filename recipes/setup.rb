@@ -1,5 +1,5 @@
 package 'nano'
-
+package 'htop'
 package 'tree' do
   action :install
 end
